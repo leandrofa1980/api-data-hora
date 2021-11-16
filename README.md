@@ -1,4 +1,4 @@
-<h2>Digital Innovation: Criando uma API REST com Spring Boot</h2>
+<h2>Digital Innovation One - DIO: Criando uma API REST com Spring Boot</h2>
 
 Desenvolvemos nesta live um pequeno serviço que retorna a data e hora de acordo com o timezone escolhido, através de uma API, criada com o Spring Boot.
 
